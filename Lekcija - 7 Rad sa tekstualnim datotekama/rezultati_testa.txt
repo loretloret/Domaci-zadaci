@@ -1,0 +1,16 @@
+Petar Petrovic 70
+Jovan Jovanovic 89
+Mira Miric 50
+Ana Mijatovic 90
+Nikola Nikolic 100
+Milan Milanovic 90
+Dragana Maksimovic 100
+Nemanja Nesic 20
+Vladimir Vladimirovic 95
+Uros Urosevic 35
+Nikolina Jankovic 84
+Janko Jankovic 52
+Aleksandar Milic 5
+Sandra Josifovic 67
+Mirko Kojic 0
+Milovan Milovanovic 91
